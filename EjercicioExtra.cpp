@@ -24,6 +24,8 @@ int sort (int n) {
 
 int main() {
     int a;
+    printf("Hello World");
+    printf("Commit 2");
     cin >> a;
     cout << sort(a) << "\n";
 }
