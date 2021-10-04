@@ -26,6 +26,7 @@ int main() {
     int a;
     printf("Hello World");
     printf("Commit 2");
+    pritnf("Este texto va en la rama footer");
     cin >> a;
     cout << sort(a) << "\n";
 }
